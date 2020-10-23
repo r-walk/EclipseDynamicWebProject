@@ -24,3 +24,4 @@ This example was built using Eclipse with Maven, testing with Tomcat server
 
    Example: http://localhost:8080/RestAPI/status
 
+Keywords:  Rest API, Eclipse Dynamic Web App, Web API
