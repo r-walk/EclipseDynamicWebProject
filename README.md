@@ -1,6 +1,7 @@
 # EclipseDynamicWebProject
 
-This example was built using Eclipse with Maven, testing with Tomcat server
+This is a very simpe WebAPI project built in eclipse to quickyly get one started buiding their own api. Simply follow the steps below to customize to your project name. Go to the src.com.sample.project package and start coding. This sample was built using Eclipse with Maven. Basic example for GET and POST are provided.
+
 
 1.  Open eclipse to a workspace
 
