@@ -7,30 +7,30 @@ This is a very simpe WebAPI project built in eclipse to quickyly get one started
 
 2.  File Import -> Git -> Projects from Git -> Clone URI
 
-	a. Set Directory to workspace and specify *project name*
+	a. Set Directory to workspace and specify *projectName*
 	
 	b. Import as general project
 	
-3.  Right Click the *project name* in the Project Explorer, 
+3.  Right Click the *projectName* in the Project Explorer, 
 
 	select **Configure -> Convert to Maven Project**
 
-4.  Edit **pom.xml** with *project name*
+4.  Edit **pom.xml** with *projectName*
 
-5.  Edit **web.xml** display name with *project name*
+5.  Edit **web.xml** display name with *projectName*
 
-6.  Right Click the *project name* in the Project Explorer, 
+6.  Right Click the *projectName* in the Project Explorer, 
 	
 	select **Maven -> Update project**
 
-7.  Right Click the *project name* in the Project Explorer,
-	
+7.  Right Click the *projectName* in the Project Explorer,
+
 	select **Run as -> Maven build...  set goals: clean install**
 
-8.  In eclipse, configure tomcat server and start server
+8.  Configure and start a server in the eclipse workspace or right click the *project name*, **Export->War** and launch from an external container
 
-9.  Test app: http://localhost:8080/*project name*/status
+9.  Test app: http://localhost:8080/*projectName*/status
 
      Example: http://localhost:8080/RestAPI/status
 
-Keywords:  Rest API, Eclipse Dynamic Web App, Web API
+Keywords:  Rest API, Eclipse Dynamic Web App, Web API, Sample Project
