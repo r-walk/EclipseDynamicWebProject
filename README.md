@@ -1,11 +1,11 @@
 # EclipseDynamicWebProject
 
-This is a very simpe WebAPI project built in eclipse to quickyly get one started buiding their own api. Simply follow the steps below to customize to your project name. Go to the **com.sample.project** package and start coding in **WebResources.java**. Basic examples for GET and POST are provided. This sample was built using Eclipse 2020 and uses Maven to install the necessary dependencies. 
+This is a very simple and straight forward Web RestAPI project built in eclipse to quickyly get one started coding for their own needs. Simply follow the steps below to customize to your project name. Go to the **com.sample.project** package and start coding in **WebResources.java**. Basic examples for GET and POST are provided. The steps below are using Eclipse 2020 and Maven is used to install and maintain the necessary dependencies. 
 
 
 1.  Open eclipse to a workspace
 
-2.  File Import -> Git -> Projects from Git -> Clone URI
+2.  File Import -> Git -> Projects from Git -> Clone URI (use: https://github.com/r-walk/EclipseDynamicWebProject.git)
 
 	a. Set Directory to workspace and specify *projectName*
 	
