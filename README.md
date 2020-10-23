@@ -1,6 +1,6 @@
 # EclipseDynamicWebProject
 
-This is a very simpe WebAPI project built in eclipse to quickyly get one started buiding their own api. Simply follow the steps below to customize to your project name. Go to the src.com.sample.project package and start coding. This sample was built using Eclipse with Maven. Basic example for GET and POST are provided.
+This is a very simpe WebAPI project built in eclipse to quickyly get one started buiding their own api. Simply follow the steps below to customize to your project name. Go to the **com.sample.project** package and start coding in **WebResources.java**. Basic examples for GET and POST are provided. This sample was built using Eclipse 2020 and uses Maven to install the necessary dependencies. 
 
 
 1.  Open eclipse to a workspace
