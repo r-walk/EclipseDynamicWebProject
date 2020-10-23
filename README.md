@@ -10,15 +10,21 @@ This example was built using Eclipse with Maven, testing with Tomcat server
 	
 	b. Import as general project
 	
-3.  Convert to Maven Project
+3.  Right Click the *project name* in the Project Explorer, 
+
+	select **Configure -> Convert to Maven Project**
 
 4.  Edit **pom.xml** with *project name*
 
 5.  Edit **web.xml** display name with *project name*
 
-6.  Maven -> Update project
+6.  Right Click the *project name* in the Project Explorer, 
+	
+	select **Maven -> Update project**
 
-7.  Run as -> Maven build... -> goals: clean install
+7.  Right Click the *project name* in the Project Explorer,
+	
+	select **Run as -> Maven build...  set goals: clean install**
 
 8.  In eclipse, configure tomcat server and start server
 
