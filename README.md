@@ -17,7 +17,7 @@ This is a very simple and straight forward Web RestAPI project built in eclipse 
 
 4.  Edit **pom.xml** with *projectName*
 
-5.  Edit **web.xml** display name with *projectName*
+5.  Edit **WebContent/WEB-INF/web.xml** display name with *projectName*
 
 6.  Right Click the *projectName* in the Project Explorer, 
 	
