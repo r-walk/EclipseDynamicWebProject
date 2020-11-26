@@ -34,4 +34,5 @@ This is a very simple and straight forward Web RestAPI project built in eclipse 
      Example: http://localhost:8080/RestAPI/status
 
 10. Add your own resource endpoint to the **../Java Resources/src/com.sample.project/WebResources.java**
+
 Keywords:  Rest API, Eclipse Dynamic Web App, Web API, Sample Project
