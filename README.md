@@ -11,7 +11,7 @@ This is a very simple and straight forward Web RestAPI project built in eclipse 
 	
 	b. Import as general project
 	
-3.  Right Click the *projectName* in the Project Explorer, 
+3.  Right Click the *projectName* in the Package Explorer, 
 
 	select **Configure -> Convert to Maven Project**
 
