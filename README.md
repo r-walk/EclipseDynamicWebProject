@@ -7,7 +7,7 @@ This is a very simple and straight forward Web RestAPI project built in eclipse 
 
 2.  File Import -> Git -> Projects from Git -> Clone URI --> set Location URI: https://github.com/r-walk/EclipseDynamicWebProject.git)
 
-	a. Set Directory to the **desired workspace**/**<your projectName>**
+	a. Set Directory to the **desired workspace/your projectName**
 	
 	b. Import as general project
 	
