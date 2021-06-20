@@ -2,6 +2,7 @@
 
 This is a very simple and straight forward Web RestAPI project built in eclipse to quickyly get one started coding for their own needs. Simply follow the steps below to customize to your project name. Go to the **com.sample.project** package and start coding in **WebResources.java**. Basic examples for GET and POST are provided. The steps below are using Eclipse 2020 and Maven is used to install and maintain the necessary dependencies. 
 
+**Tested with Apache Tomcat 9 and Java 12**
 
 1.  Open eclipse to a **desired workspace**
 
